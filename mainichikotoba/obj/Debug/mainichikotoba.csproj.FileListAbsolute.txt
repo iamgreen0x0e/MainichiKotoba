@@ -1,0 +1,13 @@
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\bin\Debug\mainichikotoba.exe.config
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\bin\Debug\mainichikotoba.exe
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\bin\Debug\mainichikotoba.pdb
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\mainichikotoba.csprojResolveAssemblyReference.cache
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\MainWindow.baml
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\MainWindow.g.cs
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\App.g.cs
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\mainichikotoba_MarkupCompile.cache
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\mainichikotoba.g.resources
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\mainichikotoba.Properties.Resources.resources
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\mainichikotoba.csproj.GenerateResource.Cache
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\mainichikotoba.exe
+c:\users\nguyen\documents\visual studio 2013\Projects\mainichikotoba\mainichikotoba\obj\Debug\mainichikotoba.pdb
